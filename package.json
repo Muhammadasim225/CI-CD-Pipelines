@@ -1,7 +1,7 @@
 {
   "name": "pipelines-project",
   "private": true,
-  "homepage": "https://muhammadasim225.github.io/CI-CD-Pipelines",
+  "homepage": "https://muhammadasim225.github.io/CI-CD-Pipelines/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
