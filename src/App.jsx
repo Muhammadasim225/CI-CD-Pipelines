@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-     <h1 className='heading'>Ci - CD pipelines {process.env.VITE_PROJECT}</h1>
+     <h1 className='heading'>Ci - CD pipelines {import.meta.env.VITE_PROJECT}</h1>
     </>
   )
 }
