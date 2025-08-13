@@ -3,6 +3,11 @@
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 <!-- YOUTUBE:START -->
+- [I Became The Biggest Noob In PUBG Mobile | Playing PUBG Mobile After 1 Year](https://www.youtube.com/watch?v=qkuGW6mFplc)
+- [Garibon Ka Spider-Man !!!](https://www.youtube.com/watch?v=9-L_RAvxLoE)
+- [Chotay Bhai Ke Liye Surprise 😍](https://www.youtube.com/watch?v=v5CLznuROIQ)
+- [Most Expensive Glacier Suit In PUBG Mobile | 50,000 UC | Avalanche X-Suit MAXED !!!](https://www.youtube.com/watch?v=FNm7H8d6-B4)
+- [I Am Rich | Rs 20 Lakh Inventory Tour | Mythic Fashion !!!](https://www.youtube.com/watch?v=8bEdcmfzyRU)
 <!-- YOUTUBE:END -->
 
 Currently, two official plugins are available:
